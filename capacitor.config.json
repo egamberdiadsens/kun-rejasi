@@ -1,0 +1,11 @@
+{
+  "appId": "uz.kunrejasi.app",
+  "appName": "Kun Rejasi",
+  "webDir": "www",
+  "plugins": {
+    "LocalNotifications": {
+      "smallIcon": "ic_stat_notify",
+      "iconColor": "#1E4FA8"
+    }
+  }
+}
